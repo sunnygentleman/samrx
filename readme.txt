@@ -1,3 +1,4 @@
 Git is a distributed version control system.
 Git is a free software.
-git tracks change.
+git tracks changes of files.
+Good, I love git.
